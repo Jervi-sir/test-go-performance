@@ -16,6 +16,7 @@ while Laravel with Swoole or FrankenPHP were crashing after 10seconds of loads w
 <img src="./htop10kperMinutes.png" />
 <img src="./with10kperMinutes.png" />
 
+<hr />
 ### With 10k per Second
 <img src="./htop10kperSecond.png" />
 <img src="./with10kperSecond.png" />
